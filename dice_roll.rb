@@ -4,5 +4,5 @@
 
 def roll()
   # code goes here
-  return 1.times.map{rand(6)}
+  return rand(6)
 end
